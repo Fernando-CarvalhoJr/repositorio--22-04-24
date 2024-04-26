@@ -28,8 +28,6 @@ body * {
 }
 
 .left-login > h1 {
-    margin-right: 0vw;
-    margin-top: -45px;
     width: 100%;
     font-size: 3vw;
     color: #77ffc0;
