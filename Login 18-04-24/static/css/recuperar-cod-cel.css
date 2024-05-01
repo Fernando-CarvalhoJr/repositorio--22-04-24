@@ -189,6 +189,11 @@ background: #00ff80c5;
 .recuperar:hover{
   background: #00ff80c5;
 }
+
+
+.botlog{
+  display: flex;
+}
 /* -------------------- /Responsividade/ -------------------- */
 
 @media only screen and (max-width: 950px){

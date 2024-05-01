@@ -21,20 +21,20 @@ body * {
 /* --------------------/Imagem e Titulo do Login/-------------------- */
 
 .right-login > h1 {
-  margin-right: 4vw;
-  margin-top: 5vh;
-  width: 50%;
-  font-size:50px;
+  margin-top: 17vh;
+  width: 56%;
+  font-size: 3vw;
   color: #77ffc0;
-  margin-left: 110px;
+  margin-left: 0px;
+  text-align: center;
 }
 
 /* ---------------------------/Cadastro/---------------------------- */
 .cadastro{
   display: flex;
   margin-right: -175vh;
-  margin-top: -20vh;
-  margin-bottom: 20vh;
+  margin-top: 7.5vh;
+  margin-bottom: 0vh;
 }
 .csd{
   margin-left: 1vw;
